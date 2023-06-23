@@ -167,8 +167,8 @@ We truly believe that our project has excellent potential and a goal of contribu
 
 
 ## Authors
-* Pau Bermúdez Valle - 1604190 - <a href="https://github.com/SrKoko">SrKoko</a> </br>
-* Sergio Barranco Aguilar - 1606048 - <a href="https://github.com/Egoris78">Egoris78</a> </br>
-* Samya Karzazi el Bachiri - 1568589 - <a href="https://github.com/imsamkb13">imsamkb13</a> </br>
-* José Francisco Aguilera Oliver - 1601361 - <a href="https://github.com/kaitouser">kaitouser</a> </br>
+* Pau Bermúdez Valle - <a href="https://github.com/SrKoko">SrKoko</a> </br>
+* Sergio Barranco Aguilar - <a href="https://github.com/Egoris78">Egoris78</a> </br>
+* José Francisco Aguilera Oliver - <a href="https://github.com/kaitouser">kaitouser</a> </br>
+* Samya Karzazi el Bachiri </br>
 
