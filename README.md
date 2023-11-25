@@ -170,5 +170,5 @@ We truly believe that our project has excellent potential and a goal of contribu
 * Pau Bermúdez Valle - <a href="https://github.com/SrKoko">SrKoko</a> </br>
 * Sergio Barranco Aguilar - <a href="https://github.com/Egoris78">Egoris78</a> </br>
 * José Francisco Aguilera Oliver - <a href="https://github.com/kaitouser">kaitouser</a> </br>
-* Samya Karzazi el Bachiri </br>
+* Samya Karzazi el Bachiri <a href="https://github.com/SamyaKarzaziElBachiri">SamyaKarzaziElBachiri</a></br>
 
